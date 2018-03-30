@@ -34,7 +34,7 @@
 	      	<i class="id badge icon"></i>User
 	      	<i class="dropdown icon"></i>
 	      	<div class="menu">
-	        	<a class="item" href="login.php"><i class="chevron circle right icon"></i> Login</a>
+	        	<a class="item" href="login"><i class="chevron circle right icon"></i> Login</a>
 	        	<a class="item" href="register.php"><i class="address card outline icon"></i> Register</a>
 	      	</div>
 	    </div>
